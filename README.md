@@ -15,7 +15,7 @@
                 <li><a href="http://t.me/Silly_nang">Contact</a></li>
             </ul>
         </nav>
-    </header>
+    </div>
 
     <main>
         <section class="products">
