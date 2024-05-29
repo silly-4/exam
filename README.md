@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <header>
+    <div class="header">
         <h2>ZEV's Shop</h2>
         <nav>
             <ul>
