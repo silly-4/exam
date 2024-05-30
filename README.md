@@ -12,10 +12,10 @@
             <h1>header</h1>
         </header>
         <aside class="aside aside1">
-            <img src="ch2.png">
+            <img src="pic/ring">
         </aside>
         <aside class="aside aside2">
-            <h1>Aside 2</h1>
+            <img src="pic/earing">
         </aside>
         <aside class="aside aside3">
             <h1>Aside 3</h1>
