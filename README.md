@@ -1,62 +1,41 @@
-<!DOCTYPE html>
-<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-    <div class="header">
-        <h2>ZEV's Shop</h2>
-        <nav>
-            <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="about.html">About</a></li>
-                <li><a href="http://t.me/Silly_nang">Contact</a></li>
-            </ul>
-        </nav>
+    <div class="mheader"></div>
+    <div class="wrapper">
+        <header class="header">
+            <h1>header</h1>
+        </header>
+        <aside class="aside aside1">
+            <img src="ch2.png">
+        </aside>
+        <aside class="aside aside2">
+            <h1>Aside 2</h1>
+        </aside>
+        <aside class="aside aside3">
+            <h1>Aside 3</h1>
+        </aside>
     </div>
+    <div class="wrapper">
+        <header class="header">
+            <h1>header</h1>
+        </header>
+        <aside class="aside aside1">
+            <h1>Aside 1</h1>
+        </aside>
+        <aside class="aside aside2">
+            <h1>Aside 2</h1>
+        </aside>
+        <aside class="aside aside3">
+            <h1>Aside 3</h1>
+        </aside>
 
-    <main>
-        <section class="products">
-            <article class="product">
-                <img src="pic/earing.jpg" alt="Product 1">
-                <h2>Product 1</h2>
-                <p>$2.75</p>
-                <button>Purchase</button>
-            </article>
-            <article class="product">
-                <img src="pic/ring.jpg" alt="Product 2">
-                <h2>Product 2</h2>
-                <p>$2.50</p>
-                <button>Purchase</button>
-            </article>
-            <article class="product">
-                <img src="pic/bracelet1.jpg" alt="Product 3">
-                <h2>Product 3</h2>
-                <p>$3.00</p>
-                <button>Purchase</button>
-            </article>
-            <article class="product">
-                <img src="pic/bracelet2.jpg" alt="Product 4">
-                <h2>Product 4</h2>
-                <p>$3.00</p>
-                <button>Purchase</button>
-            </article>
-            <article class="product">
-                <img src="pic/necklace.jpg" alt="Product 5">
-                <h2>Product 5</h2>
-                <p>$30.00</p>
-                <button>Purchase</button>
-            </article>
-        </section>
-    </main>
-
-    <footer>
-        <marquee direction="right">
-            <h2>&copy; 2023 ZEV's Online Accessories Shop</h2>
-        </marquee>
-
-    </footer>
+    </div>
+    <div class="mheader">
+        <h2>fsgrg</h2>
+    </div>
 </body>
-</html>
