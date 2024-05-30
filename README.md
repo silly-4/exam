@@ -5,7 +5,8 @@
     <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-    <div class="mheader"></div>
+    <div class="mheader">
+    </div>
     <div class="wrapper">
         <header class="header">
             <h1>header</h1>
